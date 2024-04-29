@@ -65,5 +65,5 @@ responders
 Build your docker image
 
 ```bash
-docker build -t atricore/cortext-with-neurons:latest .
+docker build -t ghcr.io/quashproj/cortex-with-neurons:3.1.8 .
 ```
